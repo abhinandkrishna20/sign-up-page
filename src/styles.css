@@ -5,3 +5,30 @@
 body{
   background-color: #ccffdd;
 }
+h2{
+  margin-top: 50px;
+  font-family: 'Aclonica';font-size: 40px;
+  color: #0d4d2d;
+}
+.signup{
+  
+  margin-top: 7%;
+  margin-bottom: 15%;
+  width: 25%;
+  opacity: 0.8;
+  background-color: #ccffdd;
+}
+.cards{
+  box-shadow: 2px 2px 3px #337755;
+  
+}
+input{
+  width: 200px;
+}
+
+button{
+  background-color: #337755;
+}
+input::content{
+  color: #337755;
+}

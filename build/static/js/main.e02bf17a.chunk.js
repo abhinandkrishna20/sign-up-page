@@ -1,0 +1,2 @@
+(this["webpackJsonpsign-up-page"]=this["webpackJsonpsign-up-page"]||[]).push([[0],{12:function(e,t,c){},14:function(e,t,c){"use strict";c.r(t);var n=c(1),i=c(3),s=(c(12),c(0));function p(){return Object(s.jsx)("div",{className:"App",children:Object(s.jsx)("h2",{children:"Simple Sign up page"})})}var r=document.getElementById("root");Object(i.createRoot)(r).render(Object(s.jsx)(n.StrictMode,{children:Object(s.jsx)(p,{})}))}},[[14,1,2]]]);
+//# sourceMappingURL=main.e02bf17a.chunk.js.map
